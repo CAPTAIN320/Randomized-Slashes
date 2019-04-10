@@ -1,0 +1,13 @@
+body{
+  background-color: #306D85;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.generate{
+  font-family: "Courier New", Courier, monospace;
+  align-items: center;
+  text-align: center;
+}

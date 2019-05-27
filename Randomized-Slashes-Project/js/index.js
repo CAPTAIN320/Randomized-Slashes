@@ -8,7 +8,7 @@ function generate(){
       var output = (Math.floor((Math.random() * 2) % 2) ) ? "╱" : "╲";
       document.write(output);
     }
-
+ 
 
   document.writeln("<br>");
  }
